@@ -137,7 +137,7 @@
 				<Title>road2011</Title>
 				<Abstract>GH:road2011 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/bilal28/Mappia_Example/releases/download/Map_Download/road2011.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/bilal28/Mappia_Example/releases/download/Map_Download/road2011.zip˸notListing˸˸maxZoom˸12</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="34.87364065901271" miny="31.34273057009829" maxx="35.56052710941278" maxy="32.54556685955263"></LatLonBoundingBox>
